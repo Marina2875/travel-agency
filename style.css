@@ -1,0 +1,172 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.conteiner{
+height: 630px;
+background: no-repeat center/100% url("./img/img-block.png");
+}
+.conteiner-block{
+    margin: 0 auto;
+    width:1100px;
+}
+.conteiner-block h1{
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 54px;
+    letter-spacing: 0em;
+
+}
+.conteiner-block a {
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0em;
+}
+.conteiner-block button{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+border: none;
+margin-left: 10px;
+}
+
+.conteiner-block h2{
+    font-family: Poppins;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 76px;
+    letter-spacing: 0em;
+    text-align: left; 
+    color: #FFFFFF;   
+    padding-bottom: 10px;  
+}
+.conteiner-block p{
+    font-family: Poppins;
+font-size: 14px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+color: #FFFFFF;  
+padding-bottom: 20px;  
+}
+.text-cont{
+    margin-top:20px;
+}
+.tab-conteiner{
+    margin-top: 40px;
+    background: #FFFFFF;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    padding-bottom: 50px;
+}
+.tab-conteiner span{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: black;
+margin-left: 10px;
+}
+.nav-tabs .nav-link.active{
+background:  #F1C40F ;
+margin-right: 20px;
+}
+.form-control{
+    margin-top: 10px;
+    font-size: 14px;
+    margin-left: 10px;
+}
+.tab-pane button{
+    margin-top: 33px;
+    width: 150px;
+    height: 35px;
+    margin-right: 20px;
+}
+.blok-two{
+    height: 100%;
+    background: 
+    url(img/img-three.png) right bottom no-repeat;
+   margin-top: 100px;
+}
+.block-img{
+  position: relative;  
+}
+.block-img-left{
+    width: 70%;
+   
+}
+.block-img-right{
+    width: 50%;
+    position: absolute;
+    left: 48%;
+    top: 50%;
+}
+.blok-text h2{
+    font-family: Poppins;
+font-size: 36px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0em;
+text-align: left;
+color: #1F3347;
+}
+.blok-text p{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #9DA1B4;
+}
+.blok-text ul li{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+color: #9DA1B4;
+}
+.blok-text ul{
+  list-style-image:url(./img/marker.png);
+}
+.col-2 span{
+    font-family: Poppins;
+font-size: 36px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+color: #FFC814;
+}
+.col-2 p{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;      
+}
+.col-2{
+    padding-right: 170px;
+}
+.blok-text button{
+    font-family: Poppins;
+font-size: 16px;
+font-weight: bold;
+line-height: 24px;
+letter-spacing: 0em;
+border: #F1C40F;
+ width: 150px;
+height: 35px;
+}
+.nav-item:hover{
+   background-color: #F1C40F;
+}
